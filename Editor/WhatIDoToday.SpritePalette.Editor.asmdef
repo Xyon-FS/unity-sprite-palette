@@ -1,0 +1,13 @@
+{
+  "name": "WhatIDoToday.SpritePalette.Editor",
+  "rootNamespace": "WhatIDoToday.SpritePalette.Editor",
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

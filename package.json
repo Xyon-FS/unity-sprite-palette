@@ -1,0 +1,26 @@
+{
+  "name": "com.whatidotoday.sprite-palette",
+  "version": "1.2.0",
+  "displayName": "Sprite Palette",
+  "description": "An Editor-only sprite palette for organizing, previewing and placing sprites in the Scene view.",
+  "unity": "2022.3",
+  "license": "MIT",
+  "documentationUrl": "https://github.com/Xyon-FS/unity-sprite-palette",
+  "keywords": [
+    "sprite",
+    "palette",
+    "level-design",
+    "editor"
+  ],
+  "author": {
+    "name": "Xyon-FS",
+    "url": "https://github.com/Xyon-FS"
+  },
+  "samples": [
+    {
+      "displayName": "Example Palette",
+      "description": "Quick-start notes for configuring a named palette.",
+      "path": "Samples~/Example Palette"
+    }
+  ]
+}
